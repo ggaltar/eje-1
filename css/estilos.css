@@ -1,0 +1,21 @@
+p {
+    color:black;
+    font-size:200%;
+}
+
+h1 {
+    background-color:#fffacd;
+}  
+
+body {
+    background-color:#fffacd;
+    color:black;
+    margin:0 4px 0 0;
+    border:12px solid;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
